@@ -1,0 +1,42 @@
+#navigator {
+  background-color: lightblue;
+  width: 150px;
+  height: 1000px;
+  overflow: visible;
+}
+a:link,
+a:visited {
+  background-color: lightblue;
+  color: darkblue;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  width: 150px;
+  font-weight: 500;
+  font-size: larger;
+}
+.col-xs-4 {
+  position: absolute;
+  right: 10px;
+  top: 7px;
+}
+
+.col-md-8 {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+h2 {
+  font-weight: 500;
+  font-size: 50px;
+  text-align: center;
+  color: black;
+}
+
+.col-xs-10 {
+  text-align: center;
+}

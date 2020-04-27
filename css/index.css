@@ -1,0 +1,46 @@
+a:link, a:visited {
+    background-color:lightblue;
+    color: darkblue;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    width: 150px;
+    font-weight: 500;
+    font-size: larger;
+  }
+  h2{
+      font-weight: 500;
+      font-size:50px;
+      text-align: center;
+      color: black;
+  }
+
+
+ #navigator{
+    background-color: lightblue;
+    width: 150px;
+    height: 1000px;
+    overflow: visible;
+ }
+
+#space{
+    height: 80px;
+}
+
+#table1{
+    width:1000px;
+    text-align: center;
+    position: relative;
+}
+#btnNewOrder{
+    position: absolute;
+    right: 10px;
+    top: 7px;
+}
+.card-body{
+    border: 2px solid lightblue;
+    opacity: 1;
+    text-align: center;
+}
+
